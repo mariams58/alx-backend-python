@@ -7,7 +7,7 @@ def add(a: float, b: float) -> float:
     """ Adds two numbers argumts of type float
     Args:
         a (float): a
-	b (float): b
+        b (float): b
     Returns:
         float: sum
     """
