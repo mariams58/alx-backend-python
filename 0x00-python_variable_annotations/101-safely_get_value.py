@@ -9,7 +9,7 @@ U = Union[Any, T]
 V = Union[T, None]
 
 
-def safely_get_value(dct: Mapping, key: Any, default = V) -> U:
+def safely_get_value(dct: Mapping, key: Any, default: V) -> U:
     """Safely returns a value
     Args:
         dct (Mapping): dct
