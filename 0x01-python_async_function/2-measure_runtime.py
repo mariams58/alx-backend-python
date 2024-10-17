@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Writing an asyncio coroutine that measures time a coroutime runs concurrently"""
+"""An asyncio coroutine that measures time a coroutime runs concurrently"""
 
 import asyncio
 import time
